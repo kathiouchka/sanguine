@@ -109,7 +109,7 @@ To build all of the [TypeScript packages](./packages), run:
 
 ```bash
 yarn clean
-yarn build
+yarn build:fe
 ```
 
 Packages compiled when on one branch may not be compatible with packages on a different branch.
